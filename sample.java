@@ -1,5 +1,5 @@
 public class sample{
 public static void main(string [] args{
-system.out.println("helo world"){
+system.out.println("helo kiran"){
 }
 }
